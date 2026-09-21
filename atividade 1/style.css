@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQetv083w3MoN5iM9nRKBRTtrNBflJTqWvGK_KaZIF7ZQ&s=10);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+button{
+    background-color: yellow;
+    color: red;
+}
