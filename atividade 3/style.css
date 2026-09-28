@@ -1,11 +1,12 @@
 body{
     background-color: black;
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4dWODyQInUG7TwnDuW9clovVDJbFe6ftavzSnGfIg5A&s=10);
-    background-size: 100%;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOSOb5KCdshnQKz6oId4HusYTl8P4JdOvjnmiPNoU85Q&s=10);
+    background-size: 50%;
     background-repeat: repeat;
 }
 h1{
     color: yellow;
+    
 }
 button{
     background-color: red;
