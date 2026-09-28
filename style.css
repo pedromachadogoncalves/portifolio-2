@@ -1,12 +1,21 @@
 body{
     background-color: black;
-    
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwmjpm1yeVafVpM5Kj2SUr-_GLFy-ccOLtRkX3buQGBw&s=10);
+    background-size: 100%;
 }
 
 h1{
-    color: yellow;
+    color: blue;
     text-align: center;
 }
 a:link{
     text-align: center;
+    font-size: x-large;
+
 }
+a{
+    color: white;
+}
+
+
+
