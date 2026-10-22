@@ -9,9 +9,10 @@ function maior() {
         alert("O numero " + numero1 + " e maior que o numero " +  numero2 + ".");
         
     }
-    if(numero1 = numero2){
-        alert("O numero " + numero1 + " E igual a " +  numero2 + ".");
-}
+   if (numero1 = numero2) {
+     alert("O numero " + numero1 + " E igual a " +  numero2 + ".");
+   
+   } 
     else{
          alert("O numero " + numero2 + " e maior que o numero " +  numero1 + ".");
     }
