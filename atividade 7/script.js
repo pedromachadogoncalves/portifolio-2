@@ -1,8 +1,8 @@
 const { use } = require("react");
 
 function aleatorio(){
-    let min = 13;
-    let max  = 16 ;
+    let min = 1;
+    let max  = 100 ;
     let dif = max - min;
     let aleatorio = Math.random();
     let num = min + Math.trunc(dif * aleatorio);
@@ -11,7 +11,7 @@ function aleatorio(){
     
     if(num == 67){
         let mostrar = document.getElementById('resultado');
-    mostrar.innerHTML = `<p> ${num} voce e um beta mogado e estrupado</p>`;
+    mostrar.innerHTML = `<p> ${num} voce e um beta mogado vou morder seu pezinho de noite</p>`;
     
     }
     if(num == 13){
